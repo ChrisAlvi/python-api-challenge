@@ -1,1 +1,4 @@
 # python-api-challenge
+## Summary for README.md  
+
+This project explores the relationship between weather conditions and latitude using Python, APIs, and data visualization. The challenge is divided into two parts: WeatherPy and VacationPy. In WeatherPy, I used the OpenWeatherMap API to collect weather data for over 500 cities worldwide, then analyzed and visualized trends in temperature, humidity, cloudiness, and wind speed in relation to latitude. I also performed linear regression analyses to compare patterns between the Northern and Southern Hemispheres. In VacationPy, I leveraged the Geoapify API to identify ideal vacation destinations based on specific weather conditions and mapped them with nearby hotels. This project showcases API requests, data processing with Pandas, visualization with Matplotlib, and interactive mapping techniques.
